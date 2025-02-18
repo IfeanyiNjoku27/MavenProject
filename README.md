@@ -1,1 +1,2 @@
 # ASP.net-MyCoreApp
+# MavenProject
